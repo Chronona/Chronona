@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chronona)](https://github.com/Chronona/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chronona&count_private=true&show_icons=true&theme=radical)](https://github.com/Chronona/github-readme-stats)
 
 <!--
 **Chronona/Chronona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
