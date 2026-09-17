@@ -1,11 +1,10 @@
 
 <p align="left"> 
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Chronona&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronona&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://raw.githubusercontent.com/Chronona/Chronona/master/readme-cards/stats.svg" />
+  <img alt="Top Langs" height="150px" src="https://raw.githubusercontent.com/Chronona/Chronona/master/readme-cards/top-langs.svg" />
 </p>
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=Chronona&theme=onedark&column=4
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://raw.githubusercontent.com/Chronona/Chronona/master/readme-cards/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![](https://raw.githubusercontent.com/Chronona/Chronona/master/profile-summary-card-output/darcula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
