@@ -38,7 +38,7 @@ jobs:
           token: ${{ secrets.SECRET_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate trophy card
-        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7 # master
+        uses: ryo-ma/github-profile-trophy@43736b50a82fca73c8df1c81abb40aa03519975c # master
         with:
           username: ${{ github.repository_owner }}
           output_path: readme-cards/trophy.svg
