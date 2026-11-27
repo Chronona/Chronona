@@ -22,7 +22,7 @@ jobs:
       # rate-limited, and github-profile-trophy's maintainer asks users to stop
       # loading the shared instance.
       - name: Generate stats card
-        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&count_private=true&show_icons=true&theme=onedark&rank_icon=github
@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.SECRET_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@e52ecffb9b500c9f8532aff89937973d64706446 # v2
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=onedark
